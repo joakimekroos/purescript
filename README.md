@@ -1,0 +1,2 @@
+# purescript
+Purescript training
