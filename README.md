@@ -1,2 +1,3 @@
-# purescript
-Purescript training
+# Purescript by Example
+
+https://leanpub.com/purescript/read
